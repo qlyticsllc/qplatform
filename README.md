@@ -34,17 +34,19 @@ Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI
 
 # Qlytics Microservices
 
-01/ Q-AUTH  -  Central Authentication Service (CAS) and user Identity & Access Management (IAM) Service.
-02/ Q-GATEWAY  -  A REST API based routing service that manage web requests between the different Q-Platform and 3rd party services (Includes Jira, Slack, Github, AWS integration)
-03/ Q-MANAGER  -  Project management and reporting service that integrates resources provided by other microservices.
+Q-AUTH  -  Central Authentication Service (CAS) and user Identity & Access Management (IAM) Service.
 
-04/ AI TALENTHUB  -  Local and Global Talent Management Service.
+Q-GATEWAY  -  A REST API based routing service that manage web requests between the different Q-Platform and 3rd party services (Includes Jira, Slack, Github, AWS integration)
 
-05/ COMPUTE  -  Cloud infrastructure management Service.
+Q-MANAGER  -  Project management and reporting service that integrates resources provided by other microservices.
 
-06/ SUBSCRIPTION  -  A payment and subscription management service with Stripe integration.
+AI TALENTHUB  -  Local and Global Talent Management Service.
 
-07/ DATA EXCHANGE . -  Service for publishing subscription based API accessible dataset at scale.
+COMPUTE  -  Cloud infrastructure management Service.
+
+SUBSCRIPTION  -  A payment and subscription management service with Stripe integration.
+
+DATA EXCHANGE  -  Service for publishing subscription based API accessible dataset at scale.
 
 
 # Qlytics Applications
