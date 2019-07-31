@@ -20,9 +20,7 @@ The Q-Platform leverages a secure API driven, microservices based architecture t
 
 Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on-premise or as a hybrid. The Q-Platform is designed to support small team-based projects, or large enterprise class deployments.
 
-Cloud formation details: 
-
-
+Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
 # 10 Past Performances
 A branch providing details or each of these projects has been provided within this repository (https://github.com/qlyticsllc/qplatform/past-performance)
@@ -41,8 +39,9 @@ The Q-Platform has been use by global organizations to:
 10. Source, collect, translate, transform and analyze non-performing loan (NPL) data in asia. (/nlp)
 
 # Additional details provided
-1. Platform User Guide
+1. Q-Platform User Guide
 2. Q-Deep-NLP User Guide (Machine and Deep Learning NLP Framework)
 3. Q-Deep-Vision User Guide (Deep Learning Computer Vision Framework)
 4. AI Starter Kit overview
-5. Corporate overview and key personnel
+5. CloudFormation Details
+6. Corporate overview and key personnel
