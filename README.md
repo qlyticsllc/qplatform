@@ -30,6 +30,7 @@ As the first full-stack AI Development Platform, Qlytics overcomes the challenge
 The Q-Platform leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and more the Qlytics platform enables rapid deployment and secure management of AI/ML development and delivery.
 
 (Insert architecture image)
+![alt text](https://github.com/qlyticsllc/platform-deployment/blob/master/q-platform.png)
 
 Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on-premise or as a hybrid. The Q-Platform is designed to support small team-based projects, or large enterprise class deployments.
 
