@@ -1,4 +1,4 @@
-Information provided within this repository is being provided in response to RFI Number: 70SBUR19I00000038 and outlines Qlytics capabilities and experience in delivering - Risk and National security, Identify, Person-Centric, Immigration Information, and Verification Systems using agile its Full-Stack, microservices based AI Development platform with Continuous (code) Integration/Continuous Delivery.
+Information provided within this repository is being provided in response to RFI Number: 70SBUR19I00000038 and outlines Qlytics capabilities and its Full-Stack, microservices based AI Development platform.
 
 For questions regarding the details in this repository please contact:
 
@@ -7,6 +7,8 @@ Chief Technology Officer
 Qlytics LLC, 
 Tel:  +1 203-722-1209 
 Email:  breilly@qlytics.com
+
+_________________________________________________________________________
 
 # Introduction
 The information within this repository outlines how Qlytics and its Q-Platform: 
@@ -27,13 +29,39 @@ A machine and deep learning system, Qlytics delivers automated, on-demand, secur
 As the first full-stack AI Development Platform, Qlytics overcomes the challenges of developing and deploying AI (using a Continuous (code) Integration/Continuous Delivery Pipeline) while simplifying and accelerating an organization’s AI automation journey. 
 
 # Architecture
-The Q-Platform leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and more the Qlytics platform enables rapid deployment and secure management of AI/ML development and delivery.
+Qlytics leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and more the Qlytics platform enables rapid deployment and secure management of AI/ML development and delivery.
 
 ![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Qlytics%20Platform%20Architecture.png)
+
+Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI/ML Starter Kits and a set of integrated Algorithms that work together to provide a contextual workflow to automate the delivement and delivery of AI/ML driven solutions.
+
+# Qlytics Microservices
+01/ Q-AUTH
+02/ Q-GATEWAY
+03/ Q-MANAGER
+04/ AI TALENTHUB
+05/ COMPUTE
+06/ SUBSCRIPTION
+07/ DATA EXCHANGE
+
+# Qlytics Applications
+01/ Q-DEEP-NLP
+02/ Q-DEEP-VISION
+
+# Qlytics AI Starter Kits
+01/ Machine Learning Starter Kit
+02/ Deep Learning Starter Kit
+03/ Source & Collect Starter Kit
+04/ Data SCience Starter Kit
+
+# Qlytics Bots + Algorithms
+01/ BOT STORE
 
 Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on-premise or as a hybrid. The Q-Platform is designed to support small team-based projects, or large enterprise class deployments.
 
 Cloud formation details: https://github.com/qlyticsllc/platform-deployment
+
+_________________________________________________________________________
 
 ## 10 Past Performances
 The following projects have been delivered by Qlytics using the Q-Platform:
