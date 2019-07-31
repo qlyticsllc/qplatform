@@ -1,4 +1,4 @@
-Information provided within this repository is being provided in response to RFI Number: 70SBUR19I00000038 and outlines Qlytics capabilities and experience in delivering - Risk and National security, Identify, Person-Centric, Immigration Information, and Verification Systems using agile practices, a micro-services approach, a Continuous (code) Integration/Continuous Delivery Pipeline and Open Source tools and software libraries.
+Information provided within this repository is being provided in response to RFI Number: 70SBUR19I00000038 and outlines Qlytics capabilities and experience in delivering - Risk and National security, Identify, Person-Centric, Immigration Information, and Verification Systems using agile its Full-Stack, microservices based AI Development platform with Continuous (code) Integration/Continuous Delivery.
 
 For questions regarding the details in this repository please contact:
 
@@ -9,7 +9,7 @@ Tel:  +1 203-722-1209
 Email:  breilly@qlytics.com
 
 # Introduction
-This repo outlines how Qlytics and its Q-Platform: 
+The information within this repository outlines how Qlytics and its Q-Platform: 
 
 1. Automates the use of AI/ML
 2. Provides relationship discovery and mapping with intelligent searching using AI/ML models.
@@ -17,10 +17,12 @@ This repo outlines how Qlytics and its Q-Platform:
 4. Provide integrated knowledge management and discovery portal to promote and drive quality and performance standards.
 5. Provide a framework for intelligent data siurcing and collecting (scraping) data. Providing data discovery, translation, transformation, analysis and knowledge extraction using NLP and custom taxonimies in multiplae languages.
 
-# Q-Platform
+_________________________________________________________________________
+
+# Qlytics
 Qlytics is a single, full-stack AI Development Platform that enables new, faster, and more efficient ways of transforming existing human-driven tasks into machine driven operations.
 
-A machine and deep learning system, the Qlytics Q-Platform delivers on-demand, secure, curated access to the API connected datasets, expert AI talent, machine & deep learning algorithms, BOTs, collaboration & project management tools, AI applications and enterprise security necessary to quickly AI-enable businesses / processes and to help organizations extract insights and make decisions at the speed of machines.
+A machine and deep learning system, Qlytics delivers automated, on-demand, secure, curated access to the API connected datasets, expert AI talent, machine & deep learning algorithms, BOTs, collaboration & project management tools, AI applications and enterprise security necessary to quickly AI-enable businesses / processes and to help organizations extract insights and make decisions at the speed of machines.
 
 As the first full-stack AI Development Platform, Qlytics overcomes the challenges of developing and deploying AI (using a Continuous (code) Integration/Continuous Delivery Pipeline) while simplifying and accelerating an organization’s AI automation journey. 
 
@@ -34,7 +36,7 @@ Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on
 Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
 # 10 Past Performances
-Qlytics has delivered the following projects using the Q-Platform in the platforms automated, agile delivery process:
+The following projects have been delivered by Qlytics using the Q-Platform:
 
 1. Calculate Counter Party Risk of Global Banks and all U.S financial institutions for one of the largest stock exchanges in the world. (/counter-party-risk)
 2. Calculate corporate commitment to Environment, Social and Goverance (ESG) for 45,000 companies, in over 50 countries (/esg)
