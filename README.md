@@ -1,6 +1,11 @@
-Qlytics and it's partner Global Risk Intelligence Inc. (GRI) are pleased to provide the following response to RFI Number: 70SBUR19I00000038. Information provided within this repository outlines Qlytics and GRI capabilities and a detail overview of Qlytics Full-Stack, microservices based AI Development platform.
+Qlytics and it's partner Global Risk Intelligence Inc. (GRI) are pleased to provide the following response to RFI Number: 70SBUR19I00000038. 
 
-We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of this proposal.  We are open to continuous ideas regarding our business and technical collaboration.
+Information provided within this repository outlines Qlytics and GRI capabilities, details on IT projects developed using the Qlytics platform, a detailed overview of Qlytics microservices based AI Development platform, and how Qlytics and its Q-Platform meets and exceeds the requirements to; 
+1. Automate the use of AI/ML 
+2. Provide relationship discovery and mapping 
+3. Provide dynamic fault-tolerant Machine and Deep Learning based data connectors. 
+4. Provide integrated knowledge management and discovery portal. 
+5. Provide a framework for intelligent data sourcing and collecting (scraping) data. 
 
 For questions regarding the details in this repository please contact:
 
@@ -10,45 +15,42 @@ Qlytics LLC,
 Tel:  +1 203-722-1209 
 Email:  breilly@qlytics.com
 
+We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of the information provided within this repository.  We are excited about the prospects of supporting the U.S. Citizenship and Immigration Services (USCIS) Office of Information Technology and are open to continued communications regarding our business and technical collaboration.
 _________________________________________________________________________
 
 # Introduction
-The information within this repository outlines how Qlytics and its Q-Platform: 
-
-1. Automates the use of AI/ML
-2. Provides relationship discovery and mapping with intelligent searching using AI/ML models.
-3. Provides dynamic fault-tolerant Machine and Deep Learning based data connectors.
-4. Provide integrated knowledge management and discovery portal to promote and drive quality and performance standards.
-5. Provide a framework for intelligent data siurcing and collecting (scraping) data. Providing data discovery, translation, transformation, analysis and knowledge extraction using NLP and custom taxonimies in multiplae languages.
-
-_________________________________________________________________________
-
-# Qlytics
 Qlytics is a single, full-stack AI Development Platform that enables new, faster, and more efficient ways of transforming existing human-driven tasks into machine driven operations.
 
-A machine and deep learning system, Qlytics delivers automated, on-demand, secure, curated access to the API connected datasets, expert AI talent, machine & deep learning algorithms, BOTs, collaboration & project management tools, AI applications and enterprise security necessary to quickly AI-enable businesses / processes and to help organizations extract insights and make decisions at the speed of machines.
+A machine and deep learning system, Qlytics delivers automated, on-demand, secure, curated access to the API connected datasets, expert AI talent, machine & deep learning apps + algorithms, collaboration & project management tools, and enterprise security necessary to quickly automate and AI-enable businesses / processes and to help organizations extract insights and make decisions at the speed of machines.
 
 As the first full-stack AI Development Platform, Qlytics overcomes the challenges of developing and deploying AI (using a Continuous (code) Integration/Continuous Delivery Pipeline) while simplifying and accelerating an organization’s AI automation journey. 
 
 # Architecture
-Qlytics leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and more the Qlytics platform enables rapid deployment and secure management of AI/ML development and delivery.
+Qlytics leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and by leveraging more than 500 open source libraries and tools within its integrated platform Qlytics enables rapid deployment and secure management of AI/ML development and delivery.
 
 ![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Qlytics%20Platform%20Architecture.png)
 
 Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI/ML Starter Kits and a set of integrated Algorithms that work together to provide a contextual workflow to automate the delivement and delivery of AI/ML driven solutions.
 
 # Qlytics Microservices
-01/ Q-AUTH
-02/ Q-GATEWAY
-03/ Q-MANAGER
-04/ AI TALENTHUB
-05/ COMPUTE
-06/ SUBSCRIPTION
-07/ DATA EXCHANGE
+
+01/ Q-AUTH  -  Central Authentication Service (CAS) and user Identity & Access Management (IAM) Service.
+02/ Q-GATEWAY  -  A REST API based routing service that manage web requests between the different Q-Platform and 3rd party services (Includes Jira, Slack, Github, AWS integration)
+03/ Q-MANAGER  -  Project management and reporting service that integrates resources provided by other microservices.
+
+04/ AI TALENTHUB  -  Local and Global Talent Management Service.
+
+05/ COMPUTE  -  Cloud infrastructure management Service.
+
+06/ SUBSCRIPTION  -  A payment and subscription management service with Stripe integration.
+
+07/ DATA EXCHANGE . -  Service for publishing subscription based API accessible dataset at scale.
+
 
 # Qlytics Applications
-01/ Q-DEEP-NLP
-02/ Q-DEEP-VISION
+
+01/ Q-DEEP-NLP  -  Automatically processes documents using a combination of Statistical and Deep-Learning approaches.
+02/ Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
 
 # Qlytics AI Starter Kits
 01/ Machine Learning Starter Kit
