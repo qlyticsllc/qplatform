@@ -1,4 +1,6 @@
-Information provided within this repository is being provided in response to RFI Number: 70SBUR19I00000038 and outlines Qlytics capabilities and its Full-Stack, microservices based AI Development platform.
+Qlytics and it's partner Global Risk Intelligence Inc. (GRI) are pleased to provide the following response to RFI Number: 70SBUR19I00000038. Information provided within this repository outlines Qlytics and GRI capabilities and a detail overview of Qlytics Full-Stack, microservices based AI Development platform.
+
+We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of this proposal.  We are open to continuous ideas regarding our business and technical collaboration.
 
 For questions regarding the details in this repository please contact:
 
