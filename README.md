@@ -26,13 +26,13 @@ A machine and deep learning system, Qlytics delivers automated, on-demand, secur
 As the first full-stack AI Development Platform, Qlytics overcomes the challenges of developing and deploying AI (using a Continuous (code) Integration/Continuous Delivery Pipeline) while simplifying and accelerating an organization’s AI automation journey. 
 
 # Architecture
-Qlytics leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and by leveraging more than 500 open source libraries and tools within its integrated platform Qlytics enables rapid deployment and secure management of AI/ML development and delivery.
+The Qlytics Platform leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and by leveraging more than 500 open source libraries and tools within its integrated platform Qlytics enables rapid deployment and secure management of AI/ML development and delivery.
 
 ![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Qlytics%20Platform%20Architecture.png)
 
 Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI/ML Starter Kits and a set of integrated Algorithms that work together to provide a contextual workflow to automate the delivement and delivery of AI/ML driven solutions.
 
-# Qlytics Microservices
+### Qlytics Microservices
 
 Q-AUTH  -  Central Authentication Service (CAS) and user Identity & Access Management (IAM) Service.
 
@@ -56,25 +56,25 @@ Q-DEEP-NLP  -  Automatically processes documents using a combination of Statisti
 Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
 
 ### Qlytics AI Starter Kits
+AI Starter Kits includes popular Python packages, pre-verified and scanned for vulernabilities and open-source licenses issues to ensure against outdated or vulnerable versions, incompatibility and improper licensing, so you can get up and running in minutes. The Qlytics Platform has (4) Integrated AI Starter Kits and the ability to Bring-Your-Own. Starter Kits include:
 
-MACHINE LEARNING STARTER KIT 
+MACHINE LEARNING STARTER KIT - A Python based auto deployed Machine Learning based functional container (Docker, AMI) of pre-scanned open source tools and libraries including auto launched Jupyter Notebook. 
 
-DEEP LEARNING STARTER KIT
+DEEP LEARNING STARTER KIT - A Python based auto deployed Deep Learning GPU based functional container (Docker, AMI) of pre-scanned open source tools and libraries including auto launched Jupyter Notebook and open-source tools and libraries.
 
-SOURCE & COLLECT STARTER KIT
+SOURCE & COLLECT STARTER KIT  -  A Python based auto deployed Deep Learning GPU based functional container (Docker, AMI) of pre-scanned open source tools and libraries including auto launched Jupyter Notebook and open-source tools and libraries.
 
-DATA SCIENCE STARTER KIT
+DATA SCIENCE STARTER KIT - A Python based auto deployed containerized (Docker, AMI) Data Science container of pre-scanned open source tools and libraries including H2O, Pandas, Sklearn, tensorflow, keras, matplotLib, boken, dask, elasticsearch, and more. 
+
 
 ### Qlytics Bots + Algorithms
-01/ BOT STORE
-
-Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on-premise or as a hybrid. The Q-Platform is designed to support small team-based projects, or large enterprise class deployments.
+The Qlytics Platform has integrated dozens of API accessible NLP, Computer Vision and Document processing Algorithms for incorporation into AI driven workflows. Standard Bots include Translation, Sentimate Analysis, Named Entity Recognition, Object Detenction, Word Vectorization, Part-of-speech tagging, Document Classification and others.
 
 Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
 _________________________________________________________________________
 
-# 10 Past Performances
+# Past Performances
 The following projects have been delivered by Qlytics using the Q-Platform:
 
 ### Project 1  -  AI/ML Driven Counter Party Risk Application
@@ -85,11 +85,16 @@ Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counte
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Goverance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced launge processing framework PDF reports are automatically procressed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledgepoint from unstructured text documents. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg)
 
-### Project 3  -  
+### Project 3  -  Reduce the Global Requirement for Fossile Fuel using ML
 Predicting power output from windmill farms for the largest power company in the world. (/windmill)
 
-### Project 4  - 
-Read and extract knowledge from Municiple Bond documents for one of the largest rating agencies in the world. (/municiple-bonds)
+### Project 4  - Analyze Municiple Bond Documents with Advanced NLP
+Project Summary: Read and extract knowledge from Municiple Bond documents for one of the largest rating agencies in the world. (/municiple-bonds)
+
+___________________________________________________________________________________________
+
+
+# Additional Projects
 
 ### Project 5  - 
 Extract details from medical bills for one of the largest healthcare providers in the world. (/qc-medical-bills)
