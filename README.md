@@ -51,14 +51,19 @@ DATA EXCHANGE  -  Service for publishing subscription based API accessible datas
 
 # Qlytics Applications
 
-01/ Q-DEEP-NLP  -  Automatically processes documents using a combination of Statistical and Deep-Learning approaches.
-02/ Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
+Q-DEEP-NLP  -  Automatically processes documents using a combination of Statistical and Deep-Learning approaches.
+
+Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
 
 # Qlytics AI Starter Kits
-01/ Machine Learning Starter Kit
-02/ Deep Learning Starter Kit
-03/ Source & Collect Starter Kit
-04/ Data SCience Starter Kit
+
+MACHINE LEARNING STARTER KIT 
+
+DEEP LEARNING STARTER KIT
+
+SOURCE & COLLECT STARTER KIT
+
+DATA SCIENCE STARTER KIT
 
 # Qlytics Bots + Algorithms
 01/ BOT STORE
