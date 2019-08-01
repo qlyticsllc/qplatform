@@ -1,4 +1,6 @@
-PAST PERFORMANCE:
+#PAST PERFORMANCE: Environment, Social and Governance (ESG) Rating Application
+
+________________________
 
 ## The Challenge
 How does one of the largest providers of financial data streamline their data collection and distribution for Municipal Bond offering documents?
