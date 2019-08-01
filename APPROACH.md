@@ -4,6 +4,8 @@ Our approach is to deliver the government a complete full-stack AI development p
 
 ![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Qlytics%20Platform%20Architecture.png)
 
+## Platform Microservices
+
 # Q-AUTH
 A single sign-on (SSO) and single log-out (SLO) microservice that provides user management and secure token-based access to Q-Platform microservices, applications, resources, BOTs and datasets. Q-Auth allows users to simply log-in once and use all applications and resources to which they have been granted access. Centralized role based permissioning and IAM (Identity and Access Management) provides granular controls of provisioning and deprovisioning of resources. Real-time reporting and advanced analytics ensures compliance with enterprise standards, SOC2, GDPR, HIPPA and others.
 
