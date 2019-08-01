@@ -32,7 +32,7 @@ The Qlytics Platform leverages a secure API driven, microservices based architec
 
 ![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Qlytics%20Platform%20Architecture.png)
 
-Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI/ML Starter Kits and a set of integrated Algorithms that work together to provide a contextual workflow to automate the delivement and delivery of AI/ML driven solutions.
+Qlytics platform is comprised of 7 microservices, integrated AI Applications, AI/ML Starter Kits and a set of integrated Algorithms that work together to provide a contextual workflow to automate the development and delivery of AI/ML driven solutions.
 
 ### Qlytics Microservices
 
@@ -58,7 +58,7 @@ Q-DEEP-NLP  -  Automatically processes documents using a combination of Statisti
 Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
 
 ### Qlytics AI Starter Kits
-AI Starter Kits includes popular Python packages, pre-verified and scanned for vulernabilities and open-source licenses issues to ensure against outdated or vulnerable versions, incompatibility and improper licensing, so you can get up and running in minutes. The Qlytics Platform has (4) Integrated AI Starter Kits and the ability to Bring-Your-Own. Starter Kits include:
+AI Starter Kits includes popular Python packages, pre-verified and scanned for vulnerabilities and open-source licenses issues to ensure against outdated or vulnerable versions, incompatibility and improper licensing, so you can get up and running in minutes. The Qlytics Platform has (4) Integrated AI Starter Kits and the ability to Bring-Your-Own. Starter Kits include:
 
 MACHINE LEARNING STARTER KIT - A Python based auto deployed Machine Learning based functional container (Docker, AMI) of pre-scanned open source tools and libraries including auto launched Jupyter Notebook. 
 
@@ -70,7 +70,7 @@ DATA SCIENCE STARTER KIT - A Python based auto deployed containerized (Docker, A
 
 
 ### Qlytics Bots + Algorithms
-The Qlytics Platform has integrated dozens of API accessible NLP, Computer Vision and Document processing Algorithms for incorporation into AI driven workflows. Standard Bots include Translation, Sentimate Analysis, Named Entity Recognition, Object Detenction, Word Vectorization, Part-of-speech tagging, Document Classification and others.
+The Qlytics Platform has integrated dozens of API accessible NLP, Computer Vision and Document processing Algorithms for incorporation into AI driven workflows. Standard Bots include Translation, Sentimate Analysis, Named Entity Recognition, Object Detection, Word Vectorization, Part-of-speech tagging, Document Classification and others.
 
 Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
@@ -81,19 +81,19 @@ _________________________________________________________________________
 The following projects have been delivered by Qlytics using the Q-Platform:
 
 ### Project 1  -  AI/ML Driven Counter Party Risk Application
-Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced launge processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
+Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced language processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk
 
 ### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
-Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Goverance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced launge processing framework PDF reports are automatically procressed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledgepoint from unstructured text documents. 
+Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Governance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced launge processing framework PDF reports are automatically procressed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledgepoint from unstructured text documents. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg
 
-### Project 3  - Analyze Municiple Bond Documents with Advanced Natural Language Processing (NLP)
+### Project 3  - Analyze Municipal Bond Documents with Advanced Natural Language Processing (NLP)
 Project Summary: Qlytics developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/muni-bonds
 
 ### Project 4  - Predict Fund Flows of Eletronic Traded Funds (ETF) 
-Project Summary: Qlytics developed and delivered a ML based solution to track and predict fund flows of Eletronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
+Project Summary: Qlytics developed and delivered a ML based solution to track and predict fund flows of Electronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/direxion
 
 
