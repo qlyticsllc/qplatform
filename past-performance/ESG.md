@@ -3,6 +3,8 @@ Project Summary: Automated Collection and Extraction of ESG Related Data and a F
 
 ______________________________________
 
+https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ESG%20Solution.png
+
 ## The Challenge
 How do asset managers efficiently analyze a company’s ESG (Environmental, Social and Governance) performance?
 
