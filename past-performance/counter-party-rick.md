@@ -1,6 +1,7 @@
 # PAST PERFORMANCE: AI/ML Driven Counter Party Risk Application
 Automated Collection of Regulatory Data and Real-Time Risk Analytics to enable Efficient CounterParty Analysis
 
+![alt text](
 
 ## The Challenge
 How does one of the world’s largest clearing houses actively monitor and assess the risks for its clearing participants?
