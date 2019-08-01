@@ -1,7 +1,7 @@
 # PAST PERFORMANCE: AI/ML Driven Counter Party Risk Application
 Automated Collection of Regulatory Data and Real-Time Risk Analytics to enable Efficient CounterParty Analysis
 
-![alt text](
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/CPR%20Main.png)
 
 ## The Challenge
 How does one of the world’s largest clearing houses actively monitor and assess the risks for its clearing participants?
@@ -27,6 +27,8 @@ Qlytics’ Counterparty Risk solutions framework improves the efficiency of data
 
 # CounterParty Solution Framework - Features & Tools
 An automated AI enabled workflow for analyzing Counterparty Risk and a solutions framework with the AI Building Blocks: Data Collectors, existing NLP rules for knowledge extraction and a custom weighting framework for quantitative and qualitative scoring of global banking institutions. 
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/CPR%20Dashboard.jpg)
 
 ## Secure API Access to Data
 Secure RESTful API platform with API Data access and real-time usage, performance and health analytics and reporting. 
@@ -65,4 +67,6 @@ Tracking of stock price volatility to identify market reaction to Risk Factors a
 
 ## Controversial News Sentiment
 Daily review of target new channels for identification of controversial news. (Ex: Change in key executives or management, fines, legal actions). 
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/CPR%20Workflow.png)
 
