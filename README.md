@@ -90,23 +90,23 @@ Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 _________________________________________________________________________
 
 # Past Performances
-The following projects have been delivered by Qlytics using the Q-Platform:
+The following projects have been delivered using the Qlytics Platform:
 
 ### Project 1  -  AI/ML Driven Counter Party Risk Application
-Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced language processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
+Project Summary: Developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced language processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk
 
 ### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
-Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Governance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced language processing framework PDF reports are automatically processed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledge-point from unstructured text documents.
+Project Summary: Developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Governance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced language processing framework PDF reports are automatically processed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledge-point from unstructured text documents.
  
 Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/esg.md
 
 ### Project 3  - Analyze Municipal Bond Documents with Advanced Natural Language Processing (NLP)
-Project Summary: Qlytics developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
+Project Summary: Developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/muni-bonds
 
 ### Project 4  - Predict Fund Flows of Electronic Traded Funds (ETF) 
-Project Summary: Qlytics developed and delivered a ML based solution to track and predict fund flows of Electronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
+Project Summary: Developed and delivered a ML based solution to track and predict fund flows of Electronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/direxion
 
 
@@ -116,16 +116,16 @@ _________________________________________________________________________
 # Related Additional Projects
 
 ### Project 1  - Deep Learning based Inventory Management with Computer Vision 
-Project Summary: Qlytics developed a Deep Learning based (Tensorflow) Computer Vision based application to leverage custom-training object detection to track municipal inventory and assets. Built for a state Department of Transportation the solution processes real-time video and provides detailed reporting and advanced analysis features. 
+Project Summary: Developed a Deep Learning based (Tensorflow) Computer Vision based application to leverage custom-training object detection to track municipal inventory and assets. Built for a state Department of Transportation the solution processes real-time video and provides detailed reporting and advanced analysis features. 
 
 ### Project 2  -  Reduce the Global Requirement for Fossil Fuel using ML
-Project Summary: Leveraging ML models and automated quantitative analytics, Qlytics developed a set of Python based models to predict power output from windmill farms for the largest power company in the world. Leveraging Qlytics Data Science AI Starter Kit, Qlytics delivered an API accessible mathematic model that provides the ability to predict future power output.
+Project Summary: Leveraging ML models and automated quantitative analytics, developed a set of Python based models to predict power output from windmill farms for the largest power company in the world. Leveraging Qlytics Data Science AI Starter Kit, Qlytics delivered an API accessible mathematic model that provides the ability to predict future power output.
 
 ### Project 3  - Medical Bill Analysis using NLP
 Project Summary: Leveraging Qlytics Q-Deep-NLP Natural Language Processing App built a solution to extract medical billing details from unstructured PDF based medical documents for one of the largest healthcare providers in the world. 
 
 ### Project 4  - Improve Elder Care using AI/ML 
-Project Summary: (Currently developing a AI/ML driven solution to help predict healthcare risk of elderly individuals enrolled in the Massachusetts Office of Elder Affairs. Using the Qlytics platform Q-Deep-NLP and AI Starter kits to provide and automated workflow and AI/ML driven quantitative analysis. 
+Project Summary: (Currently developing) An AI/ML driven solution to help predict healthcare risk of elderly individuals enrolled in the Massachusetts Office of Elder Affairs. Using the Qlytics platform Q-Deep-NLP and AI Starter kits to provide and automated workflow and AI/ML driven quantitative analysis. 
 
 ____________________
 
