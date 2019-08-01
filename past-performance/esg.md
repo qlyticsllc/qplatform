@@ -1,4 +1,4 @@
-#PAST PERFORMANCE: Environment, Social and Governance (ESG) Rating Application
+#PAST PERFORMANCE: Analyze Municipal Bond Documents with Advanced Natural Language Processing (NLP)
 
 ________________________
 
@@ -14,7 +14,7 @@ Using the Qlytics Document Intelligence NLP Application, bond documents are auto
 Knowledge extraction Bots are deployed Outputs are converted into JSON API for easy database input and integration with predictive analytics models
 An intuitive interface is designed for identifying exceptions, viewing NLP processes and auditing results
 
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/ESG%20Solution.png)
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Muni%201.png)
 
 # Automated Extraction of Knowledge from Municipal Bonds 
 An AI enabled workflow for Municipal Bond Extraction with the AI Building Blocks: Data Collectors, NLP Bots for knowledge extraction and built-in workflow audit features:
@@ -34,7 +34,7 @@ With built-in results highlighting and Bot development workflow auditing feature
 Developer Window
 Ability to add Tasks and Bots, to create and save new Bots, and to modify existing Bots to improve results or to target additional data-points for extraction.
 
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Q-Deep-NLP%20image%201.png)
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Q-Deep-NLP%20image%201.png)
 
 # Municipal Bond NLP Bots
 Qlytics’ created NLP Bots that can be used to extract knowledge from offering documents, these Bots (Algorithms) include:
@@ -82,5 +82,3 @@ Visualization – Customize pre-configured Reporting Dashboard
 Share - Create and Publish API accessible datasets
  
 Monetize - Market datasets to generate new revenue streams via the Q-Platform’s integrated Payment Gateway
-
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Muni%201.png)
