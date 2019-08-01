@@ -40,7 +40,9 @@ Ability to add Tasks and Bots, to create and save new Bots, and to modify existi
 Qlytics’ created NLP Bots that can be used to extract knowledge from offering documents, these Bots (Algorithms) include:
 
 01/ Balance Sheets.dql
+
 02/ CAV Flag.dql
+
 03/ CUSIP Tables.dql
 04/ Call Min Max.dql
 05/ Call in Part Whole.dql
