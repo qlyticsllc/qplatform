@@ -1,4 +1,4 @@
-Qlytics and it's partner Global Risk Intelligence Inc. (GRI) are pleased to provide the following response to RFI Number: 70SBUR19I00000038. 
+Global Risk Intelligence Inc. (GRI) and Qlytics are pleased to provide the following response to RFI Number: 70SBUR19I00000038. 
 
 Information provided within this repository outlines Qlytics and GRI capabilities, details on Qlytics AI Development Platform, an overview on how the Qlytics Platform streamlines the AI/ML development process and how Qlytics meets and exceeds the governments requirements to; 
 1. Automate the use of AI/ML 
