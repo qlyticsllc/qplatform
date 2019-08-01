@@ -30,7 +30,7 @@ _________________________________________________________________________
 # Architecture
 The Qlytics Platform leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and by leveraging more than 500 open source libraries and tools within its integrated platform, Qlytics provides rapid deployment and secure management of AI/ML driven workflows.
 
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Qlytics%20Platform%20Architecture.png)
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Qlytics%20Platform%20Architecture.png)
 
 Qlytics platform is comprised of 7 microservices, AI Applications, AI Starter Kits and a set of integrated AI/ML Bots + Algorithms.
 
