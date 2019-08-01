@@ -44,29 +44,53 @@ Qlytics’ created NLP Bots that can be used to extract knowledge from offering 
 02/ CAV Flag.dql
 
 03/ CUSIP Tables.dql
+
 04/ Call Min Max.dql
+
 05/ Call in Part Whole.dql
+
 06/ Capital Type.dql
+
 07/ Contract Liability.dql
+
 08/ Contract Term.dql
+
 09/ Conversion Factor.dql
+
 010/ Conversion Flag.dql
+
 011/ Credit Support Annex Expenses.dql
+
 012/ DTC Eligible.dql
+
 013/ Delivery Date.dql
+
 014/ Enh Type.dql
+
 015/ Escrow Agent.dql
+
 016/ Financial Advisor.dql
+
 017/ Loan Note Conditions.dql
+
 018/ Maturity.dql
+
 019/ Minimum Increment.dql
+
 020/ Note issuance facility Multi.dql
+
 021/ Offer Type.dql
+
 022/ Original Yield.dql
+
 023/ Principle Amount.dql
+
 024/ Registrar.dql
+
 025/ Remarketing Agent.dql
+
 026/ Trustee.dql
+
 027/ State Gov Table Type.dql
 
 ## Additional Framework Components
