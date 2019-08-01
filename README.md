@@ -93,7 +93,7 @@ Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counte
 ### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Governance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced language processing framework PDF reports are automatically processed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledge-point from unstructured text documents.
  
-Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg
+Project Details: https://github.com/qlyticsllc/qplatform/blob/master/past-performance/esg.md
 
 ### Project 3  - Analyze Municipal Bond Documents with Advanced Natural Language Processing (NLP)
 Project Summary: Qlytics developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
