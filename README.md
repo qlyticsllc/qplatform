@@ -49,13 +49,13 @@ SUBSCRIPTION  -  A payment and subscription management service with Stripe integ
 DATA EXCHANGE  -  Service for publishing subscription based API accessible dataset at scale.
 
 
-# Qlytics Applications
+### Qlytics Applications
 
 Q-DEEP-NLP  -  Automatically processes documents using a combination of Statistical and Deep-Learning approaches.
 
 Q-DEEP-VISION  -  Computer vision application that combines a convolutional neural network, a framework for supervised learning and a user friendly interface to deliver the ability to detect, track and report on objects and actions within images and videos. 
 
-# Qlytics AI Starter Kits
+### Qlytics AI Starter Kits
 
 MACHINE LEARNING STARTER KIT 
 
@@ -65,7 +65,7 @@ SOURCE & COLLECT STARTER KIT
 
 DATA SCIENCE STARTER KIT
 
-# Qlytics Bots + Algorithms
+### Qlytics Bots + Algorithms
 01/ BOT STORE
 
 Deploy Qlytics using cloudformation in your own secure Virtual Private Cloud, on-premise or as a hybrid. The Q-Platform is designed to support small team-based projects, or large enterprise class deployments.
@@ -81,32 +81,32 @@ The following projects have been delivered by Qlytics using the Q-Platform:
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced launge processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk)
 
-# Project 2  -  Environment, Social and Goverance (ESG) Rating Application
+### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Goverance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced launge processing framework PDF reports are automatically procressed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledgepoint from unstructured text documents. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg)
 
-# Project 3  -  
+### Project 3  -  
 Predicting power output from windmill farms for the largest power company in the world. (/windmill)
 
-# Project 4  - 
+### Project 4  - 
 Read and extract knowledge from Municiple Bond documents for one of the largest rating agencies in the world. (/municiple-bonds)
 
-# Project 5  - 
+### Project 5  - 
 Extract details from medical bills for one of the largest healthcare providers in the world. (/qc-medical-bills)
 
-# Project 6  - 
+### Project 6  - 
 Help predict healthcare risk of elderly individuals enrolled in the Massachuesttes Office of Edler Affairs. (/eoea)
 
-# Project 7  - 
+### Project 7  - 
 Track Inventory using computer vision for a state Department of Transportation. (/deldot)
 
-# Project 8  - 
+### Project 8  - 
 Track and predict fund flows of Eletronic Traded Funds (ETF) for one of the largest ETF issues in the world. (/direxion)
 
-# Project 9  - 
+### Project 9  - 
 Extract knowledge from personal financial documents to analyze credit risk for one of the top ten largest banks in the world. (/qc-pa)
 
-# Project 10  - 
+### Project 10  - 
 Source, collect, translate, transform and analyze non-performing loan (NPL) data in asia. (/dac-nlp)
 
 A branch providing details or each of these projects has been provided within this repository (https://github.com/qlyticsllc/qplatform/past-performance)
