@@ -11,3 +11,5 @@ Qlytics sources and collects over 220,000 Municipal Bond offering documents. We 
 Using the Qlytics Document Intelligence NLP Application, bond documents are automatically converted into machine readable electronic format
 Knowledge extraction Bots are deployed Outputs are converted into JSON API for easy database input and integration with predictive analytics models
 An intuitive interface is designed for identifying exceptions, viewing NLP processes and auditing results
+
+
