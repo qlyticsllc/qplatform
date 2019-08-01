@@ -7,8 +7,6 @@ Qlytics approach is to deliver the government a complete full-stack AI developme
 # Q-AUTH
 A single sign-on (SSO) and single log-out (SLO) microservice that provides user management and secure token-based access to Q-Platform microservices, applications, resources, BOTs and datasets. Q-Auth allows users to simply log-in once and use all applications and resources to which they have been granted access. Centralized role based permissioning and IAM (Identity and Access Management) provides granular controls of provisioning and deprovisioning of resources. Real-time reporting and advanced analytics ensures compliance with enterprise standards, SOC2, GDPR, HIPPA and others.
 
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Auth.jpg)
-
 # Q-GATEWAY
 Q-Gateway is an end-to-end API Management microservice that leverages a custom REST Framework (DRF) for designing, implementing, securing, managing, monitoring, and publishing APIs. The Q-Gateway manages access of authenticated users to resources, to monitor and analyze traffic, to log and report on all transactions and to apply runtime policies to enforce governance like rate limiting, throttling and caching. The Q-Gateway securely connects authorized front-end API requests to backend Qlytics System.
 
@@ -35,3 +33,10 @@ A set of four Dockerized functional tool kits each comprised of a standard set o
 
 # BOT STORE
 A marketplace of API accessible machine and deep learning models, algorithms and bots. Available for use within Q-Apps or as API accessible algorithms the Bots store enables users to streamline the addition of AI driven features and functions to a project or workflow.
+
+## SAMPLES IMAGES
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Auth.jpg)
+Q-Auth
+
+
