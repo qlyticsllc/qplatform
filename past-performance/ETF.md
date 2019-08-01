@@ -1,6 +1,8 @@
 # PAST PERFORMANCE: Predict Fund Flows of Electronic Traded Funds (ETF) 
 Project Summary: Automated Collection, Analytics and Detailed Reporting of ETF Data, Performance and Fund Flows
 
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ETF%20Main.png)
+
 ## The Challenge
 How does an ETF (Exchange Traded Fund) provider gain insight into the market’s fund flows and the holding structure of competitive ETFs?
 
@@ -18,6 +20,8 @@ With over $3.2 trillion in assets, more than 3,000 ETFs and ETNs in the marketpl
 
 # ETF Dashboard - Features & Tools
 An automated AI Enabled workflow for ETF Market Analysis and a solutions framework with the AI Building Blocks: Data Collectors, NLP rules for knowledge extraction and custom quantitative models. Client provided datasets enable robust real-time reporting and analysis.
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ETF%20Dashboard.png)
 
 # Secure API Access to Data
 Secure RESTful API platform with API Data access and real-time usage, performance and health analytics and reporting. 
@@ -39,6 +43,8 @@ Create customized reporting for export.
 
 ## Customize ESG Ratings
 A structure to create a score is provided and allows users to change weights on each response or Framework result to create a score.
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ETF%20Workflow.png)
 
 ## Data Collectors
 Qlytics Data Collectors currently scrape a set or target ETF issuer corporate websites daily to collect the holdings in ETF for each day - tracking changes in positions and strategies
