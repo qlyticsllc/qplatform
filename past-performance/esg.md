@@ -32,35 +32,53 @@ With built-in results highlighting and Bot development workflow auditing feature
 Developer Window
 Ability to add Tasks and Bots, to create and save new Bots, and to modify existing Bots to improve results or to target additional data-points for extraction.
 
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Q-Deep-NLP%20image%201.png)
+
 # Municipal Bond NLP Bots
 Qlytics’ created NLP Bots that can be used to extract knowledge from offering documents, these Bots (Algorithms) include:
 
-Balance Sheets.dql
-CAV Flag.dql
-CUSIP Tables.dql
-Call Min Max.dql
-Call in Part Whole.dql
-Capital Type.dql
-Contract Liability.dql
-Contract Term.dql
-Conversion Factor.dql
-Conversion Flag.dql
-Credit Support Annex Expenses.dql
-DTC Eligible.dql
-Delivery Date.dql
-Enh Type.dql
-Escrow Agent.dql
-Financial Advisor.dql
-Loan Note Conditions.dql
-Maturity.dql
-Minimum Increment.dql
-Note issuance facility Multi.dql
-Offer Type.dql
-Original Yield.dql
-Principle Amount.dql
-Registrar.dql
-Remarketing Agent.dql
-Trustee.dql
-State Gov Table Type.dql
+01/ Balance Sheets.dql
+02/ CAV Flag.dql
+03/ CUSIP Tables.dql
+04/ Call Min Max.dql
+05/ Call in Part Whole.dql
+06/ Capital Type.dql
+07/ Contract Liability.dql
+08/ Contract Term.dql
+09/ Conversion Factor.dql
+010/ Conversion Flag.dql
+011/ Credit Support Annex Expenses.dql
+012/ DTC Eligible.dql
+013/ Delivery Date.dql
+014/ Enh Type.dql
+015/ Escrow Agent.dql
+016/ Financial Advisor.dql
+017/ Loan Note Conditions.dql
+018/ Maturity.dql
+019/ Minimum Increment.dql
+020/ Note issuance facility Multi.dql
+021/ Offer Type.dql
+022/ Original Yield.dql
+023/ Principle Amount.dql
+024/ Registrar.dql
+025/ Remarketing Agent.dql
+026/ Trustee.dql
+027/ State Gov Table Type.dql
 
+## Additional Framework Components
 
+Data Sources – Add or Modify data sourcing and collecting processes.  Link internal data sources via Qlytics API Gateway
+
+Custom Taxonomy – Modify the alignment of industry specific terms by uploading or modifying Taxonomies and custom Data Dictionaries
+
+NLP Rules – Define additional key knowledge points for extraction from data sources. Leverage Q-Deep-NLP to develop, Test and Deploy new Tasks and Bots
+
+Analytics – Configure and automate the analysis of source information leveraging ML/DL algorithms
+
+Visualization – Customize pre-configured Reporting Dashboard
+
+Share - Create and Publish API accessible datasets
+ 
+Monetize - Market datasets to generate new revenue streams via the Q-Platform’s integrated Payment Gateway
+
+![alt text](
