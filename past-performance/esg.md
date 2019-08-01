@@ -12,4 +12,5 @@ Using the Qlytics Document Intelligence NLP Application, bond documents are auto
 Knowledge extraction Bots are deployed Outputs are converted into JSON API for easy database input and integration with predictive analytics models
 An intuitive interface is designed for identifying exceptions, viewing NLP processes and auditing results
 
+https://github.com/qlyticsllc/qplatform/blob/master/ESG%20Solution.png
 
