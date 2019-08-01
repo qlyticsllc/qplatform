@@ -74,10 +74,10 @@ Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
 _________________________________________________________________________
 
-## 10 Past Performances
+# 10 Past Performances
 The following projects have been delivered by Qlytics using the Q-Platform:
 
-# Project 1  -  AI/ML Driven Counter Party Risk Application
+### Project 1  -  AI/ML Driven Counter Party Risk Application
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced launge processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
 Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk)
 
