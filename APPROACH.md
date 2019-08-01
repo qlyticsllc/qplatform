@@ -36,7 +36,28 @@ A marketplace of API accessible machine and deep learning models, algorithms and
 
 ## SAMPLES IMAGES
 
-![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Auth.jpg)
 Q-Auth
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Auth.jpg)
+
+Data Exchange
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/DataX2.jpg)
+
+Q-Deep-NLP
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Q-Deep-NLP.jpg)
+
+Q-Deep-Vision (Computer Vision)
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/Q-Deep-Vision2.jpg)
+
+TalentHib
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/TalentHub.jpg)
+
+TimeTracker
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/TimeTracker.jpg)
 
 
