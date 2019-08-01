@@ -81,4 +81,4 @@ Share - Create and Publish API accessible datasets
  
 Monetize - Market datasets to generate new revenue streams via the Q-Platform’s integrated Payment Gateway
 
-![alt text](
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/Muni%201.png)
