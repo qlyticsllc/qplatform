@@ -25,6 +25,8 @@ A machine and deep learning system, Qlytics delivers automated, on-demand, secur
 
 As the first full-stack AI Development Platform, Qlytics overcomes the challenges of developing and deploying AI (using a Continuous (code) Integration/Continuous Delivery Pipeline) while simplifying and accelerating an organization’s AI automation journey. 
 
+_________________________________________________________________________
+
 # Architecture
 The Qlytics Platform leverages a secure API driven, microservices based architecture that automates development workflows by instantly bringing together the – people, tools, resources and infrastructure needed to build advanced AI driven solutions. With 3rd party API integrations with Jira, Slack, Github, AWS and by leveraging more than 500 open source libraries and tools within its integrated platform Qlytics enables rapid deployment and secure management of AI/ML development and delivery.
 
@@ -72,6 +74,7 @@ The Qlytics Platform has integrated dozens of API accessible NLP, Computer Visio
 
 Cloud formation details: https://github.com/qlyticsllc/platform-deployment
 
+
 _________________________________________________________________________
 
 # Past Performances
@@ -79,49 +82,46 @@ The following projects have been delivered by Qlytics using the Q-Platform:
 
 ### Project 1  -  AI/ML Driven Counter Party Risk Application
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate Counter Party Risk of Global Banks and all U.S financial institutions. This application sources and collects financial, market and controversial news data daily on 4,500+ U.S Banks and 12 large Global Financial Institutions. This project leveraged Qlytics Source and Collect (Scraping) Starter Kit, Q-Deep-NLP advanced launge processing framework, ML algorithms to calculate stock volitility and a custom built python based PD (Probability of Default) model. This solution collects more than 1 million datapoints per month and leverages a ML model to score Counter Party Risk for one of the largest stock exchanges in the world. 
-Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk)
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/counter-party-risk
 
 ### Project 2  -  Environment, Social and Goverance (ESG) Rating Application
 Project Summary: Qlytics developed and delivered a AL/ML driven Application to calculate corporate commitment to Environment, Social and Goverance (ESG). Leveraging Qlytics platform to source and collect (scrape) sustainability reports on 45,000 global companies, in over 50 countries. Using Qlytics Q-Deep-NLP advanced launge processing framework PDF reports are automatically procressed to extract target data. Over 400,000 documents in 19 languages have been collected and processed with daily updates delivered as API accessible datasets from the Qlytics platform's integrated Data Exchange. The solution leverages a Machine and Deep Learning based NLP app (Q-Deep-NLP), automated workflow management to extract key knowledgepoint from unstructured text documents. 
-Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg)
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/esg
 
-### Project 3  -  Reduce the Global Requirement for Fossile Fuel using ML
-Predicting power output from windmill farms for the largest power company in the world. (/windmill)
+### Project 3  - Analyze Municiple Bond Documents with Advanced Natural Language Processing (NLP)
+Project Summary: Qlytics developed and delivered a neuro-linguistic programming / natural language processing (NLP) based solution to automatically read and extract knowledge from large qualities (40,000+) Municipal Bond documents for one of the largest rating agencies in the world. The solution leverages a advanced web scrapper and Machine and Deep Learning based NLP app (Q-Deep-NLP) to automate the workflow management of PDF documents to extract key knowledge point from unstructured text documents. 
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/muni-bonds
 
-### Project 4  - Analyze Municiple Bond Documents with Advanced NLP
-Project Summary: Read and extract knowledge from Municiple Bond documents for one of the largest rating agencies in the world. (/municiple-bonds)
+### Project 4  - Predict Fund Flows of Eletronic Traded Funds (ETF) 
+Project Summary: Qlytics developed and delivered a ML based solution to track and predict fund flows of Eletronic Traded Funds (ETF) across all Electronic Traded Funds. Using advanced web scraping, ML and predictive analytics to collect and auto analyze ETF holdings and performance. This solution was built for one of the largest ETF issues in the world. 
+Project Details: https://github.com/qlyticsllc/qplatform/past-performance/direxion
 
-___________________________________________________________________________________________
+
+_________________________________________________________________________
 
 
-# Additional Projects
+# Related Additional Projects
 
-### Project 5  - 
-Extract details from medical bills for one of the largest healthcare providers in the world. (/qc-medical-bills)
+### Project 1  - Deep Learning based Inventory Management with Computer Vision 
+Project Summary: Qlytics developed a Deep Learning based (Tensorflow) Computer Vision based application to leverage custom-training object detection to track municiple inventory and assets. Built for a state Department of Transportation the solution processes real-time video and provides detailed reporting and advanced analysis features. 
 
-### Project 6  - 
-Help predict healthcare risk of elderly individuals enrolled in the Massachuesttes Office of Edler Affairs. (/eoea)
+### Project 2  -  Reduce the Global Requirement for Fossile Fuel using ML
+Project Summary: Leveraging ML models and automated quanitative analytics, Qlytics developed a set of Python based models to predict power output from windmill farms for the largest power company in the world. Leveraging Qlytics Data Science AI Starter Kit, Qlytics delivered an API accessible mathimatic model that provides the ability to predict future power output.
 
-### Project 7  - 
-Track Inventory using computer vision for a state Department of Transportation. (/deldot)
+### Project 3  - Medical Bill Analysis using NLP
+Project Summary: Leveraging Qlytics Q-Deep-NLP Natural Language Processing App built a solution to extract medical billing details from unstructured PDF based medical documents for one of the largest healthcare providers in the world. 
 
-### Project 8  - 
-Track and predict fund flows of Eletronic Traded Funds (ETF) for one of the largest ETF issues in the world. (/direxion)
+### Project 4  - Improve Edler Care using AI/ML 
+Project Summary: (Currently developing a AI/ML driven solution Help predict healthcare risk of elderly individuals enrolled in the Massachuesttes Office of Edler Affairs. Using the Qlytics platform Q-Deep-NLP and AI Starter kits to provide and autmated workflow of 
 
-### Project 9  - 
-Extract knowledge from personal financial documents to analyze credit risk for one of the top ten largest banks in the world. (/qc-pa)
-
-### Project 10  - 
-Source, collect, translate, transform and analyze non-performing loan (NPL) data in asia. (/dac-nlp)
-
-A branch providing details or each of these projects has been provided within this repository (https://github.com/qlyticsllc/qplatform/past-performance)
 
 # Additional details 
 Additional content in this repository includes:
 
-1. Q-Platform User Guide
-2. Q-Deep-NLP User Guide (Machine and Deep Learning NLP Framework)
-3. Q-Deep-Vision User Guide (Deep Learning Computer Vision Framework)
-4. AI Starter Kit overview
-5. CloudFormation Details
-6. Corporate overview and key personnel
+1. Q-Platform User Guide (https://qlytics-demo.readthedocs-hosted.com/en/latest/q-platform/index.html)
+
+2. Q-Deep-NLP User Guide (Machine and Deep Learning NLP Framework) (https://qlytics-demo.readthedocs-hosted.com/en/latest/q-deep-nlp/index.html)
+
+3. Q-Deep-Vision User Guide (Deep Learning Computer Vision Framework) https://qlytics-demo.readthedocs-hosted.com/en/latest/q-deep-vision/index.html
+
+4. CloudFormation Details (https://github.com/qlyticsllc/platform-deployment)
