@@ -3,7 +3,7 @@ Project Summary: Automated Collection and Extraction of ESG Related Data and a F
 
 ______________________________________
 
-https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ESG%20Solution.png
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ESG%20Solution.png)
 
 ## The Challenge
 How do asset managers efficiently analyze a company’s ESG (Environmental, Social and Governance) performance?
@@ -31,6 +31,8 @@ The existing ESG questions and their business rules can be further customized to
 Additionally, due to the infrastructure of the platform, it can accommodate APIs from traditional data providers.  This feature provides the ability to combine existing vendor data with newly curated information using NLP.
 
 Finally, the application could provide tracking to automate compliance requirements associated with ESG scoring reviews. 
+
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ESG%20Dashboard.png)
 
 # ESG Solutions Framework - Features & Tools
 An automated AI enabled workflow for ESG Reporting and a solutions framework with the AI Building Blocks: Data Collectors, NLP rules for knowledge extraction and a custom weighting framework for quantitative and qualitative scoring of over 45,000 global companies.
@@ -68,7 +70,7 @@ Following the Sustainable Stock Exchange Initiative Framework, GRI and others, Q
 ## Industry (GICS) Ranking
 Results ranked against other reporting entities within industry (GICS).
 
-Image
+![alt text](https://github.com/qlyticsllc/qplatform/blob/master/past-performance/images/ESG%20Workflow%202.png)
 
 # Additional Framework Components
 
