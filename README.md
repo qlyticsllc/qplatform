@@ -1,27 +1,11 @@
-Global Risk Intelligence Inc. (GRI) and Qlytics are pleased to provide the following response to RFI Number: 70SBUR19I00000038. 
-
-Information provided within this repository outlines details on the Qlytics AI Development Platform, an overview on how the Qlytics Platform streamlines the AI/ML development process and how the platform meets and exceeds the governments requirements to; 
-1. Automate the use of AI/ML 
-2. Provide relationship discovery and mapping 
-3. Provide dynamic fault-tolerant Machine and Deep Learning based data connectors. 
-4. Provide integrated knowledge management and discovery portal. 
-5. Provide a framework for intelligent data sourcing and collecting (scraping) data. 
-
+Information provided within this repository outlines details on the Qlytics AI Development Platform.
 For questions regarding the details in this repository please contact:
-
-Jennifer Hoffman 
-Senior Vice President
-Global Risk Intelligence
-Tel: +1 954-470-5442
-jhoffman@globalriskintel.com
-
-For technical questions please contact
 
 Brendan Reilly
 Tel:  +1 203-722-1209 
 Email:  breilly@qlytics.com
 
-We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of the information provided within this repository.  We are excited about the prospects of supporting the U.S. Citizenship and Immigration Services (USCIS) Office of Information Technology and are open to continued communications regarding our business and technical collaboration.
+We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of the information provided within this repository.  
 _________________________________________________________________________
 
 # Introduction
